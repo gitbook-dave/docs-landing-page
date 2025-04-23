@@ -1,27 +1,3 @@
-<!--
-Brand Colors:
-- Primary Blue: #0057FF
-- Dark: #0C1825
-- Light Gray: #F7F9FB
-- Accent: #00D2FF
-
-Assets (place in ./assets/):
-- gitbook-logo.svg
-- gitbook-screenshot.png
-- icon-collaborate.svg
-- icon-centralize.svg
-- icon-customize.svg
-- icon-publish.svg
-- icon-analytics.svg
-- icon-ai.svg
-- icon-auth.svg
-- icon-adaptive.svg
--->
-
-<p align="center">
-  <img src="./assets/gitbook-logo.svg" alt="GitBook Logo" width="120" />
-</p>
-
 # Build docs as a product, not an afterthought
 
 Documentation is a critical part of your product experience.  
@@ -31,18 +7,12 @@ GitBook helps you collaborate and build beautiful, centralized docs your users w
 
 ## What makes GitBook different?
 
-| ![Collaborate](./assets/icon-collaborate.svg) <br> **Collaborate** <br> Work together in real time with your entire team—writers and engineers. | ![Centralize](./assets/icon-centralize.svg) <br> **Centralize** <br> Bring all your product, API, and help docs into a single, searchable hub. | ![Customize](./assets/icon-customize.svg) <br> **Customize** <br> Match your docs to your brand and workflow with flexible options. |
+| **Collaborate** <br> Work together in real time with your entire team—writers and engineers. | **Centralize** <br> Bring all your product, API, and help docs into a single, searchable hub. | **Customize** <br> Match your docs to your brand and workflow with flexible options. |
 |---|---|---|
-| ![Publish](./assets/icon-publish.svg) <br> **Publish Instantly** <br> Fully hosted docs—no servers, no page view limits, just one click to go live. | ![Analytics](./assets/icon-analytics.svg) <br> **Analytics** <br> Understand your audience with built-in traffic and engagement insights. | ![AI](./assets/icon-ai.svg) <br> **AI-Powered** <br> Use AI to write, improve, and answer questions from your docs. |
-| ![Auth](./assets/icon-auth.svg) <br> **Authenticated Access** <br> Control who sees your docs—public, private, or anything in between. | ![Adaptive](./assets/icon-adaptive.svg) <br> **Adaptive Docs** <br> Show different content to different users based on permissions or roles. |  |
+| **Publish Instantly** <br> Fully hosted docs—no servers, no page view limits, just one click to go live. | **Analytics** <br> Understand your audience with built-in traffic and engagement insights. | **AI-Powered** <br> Use AI to write, improve, and answer questions from your docs. |
+| **Authenticated Access** <br> Control who sees your docs—public, private, or anything in between. | **Adaptive Docs** <br> Show different content to different users based on permissions or roles. |  |
 
 ---
 
 > “Documentation is a critical part of your product experience. GitBook helps you collaborate and build beautiful, centralized docs your users will love.”  
 > <sub>— GitBook Team</sub>
-
----
-
-<p align="center">
-  <img src="./assets/gitbook-screenshot.png" alt="GitBook Screenshot" width="600"/>
-</p>
